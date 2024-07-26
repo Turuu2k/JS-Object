@@ -19,6 +19,10 @@
 // 3.1 The address property should be an object with properties street, city, and country.
 // 3.2 Access and log the properties of the `address` object. 
 
+// 4. Create an object called book with properties title, author, and year.
+// Delete the year property from the book object.
+// Log the updated book object.
+
 
 
 
