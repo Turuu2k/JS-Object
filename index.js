@@ -25,7 +25,9 @@
 // 5. Create an object called movie with properties title, director, and year.
 // Log all the keys and values of the movie object to the console.
 
-
+// 6. Create two objects representing two people's details.
+// Merge them into a single object.
+// Log the merged object.
 
 
 
