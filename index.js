@@ -29,10 +29,12 @@
 // Merge them into a single object.
 // Log the merged object.
 
-
 // 7. Create an object data with properties firstName, lastName, and age.
 // Rename the firstName property to name.
 // Log the updated data object.
+
+// 8. Create an object userProfile with properties username, email, and age.
+// Write code to check if email exists and log it; if it doesn't, assign a default value and log the updated object.
 
 
 
