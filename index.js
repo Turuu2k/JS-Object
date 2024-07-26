@@ -30,7 +30,9 @@
 // Log the merged object.
 
 
-
+// 7. Create an object data with properties firstName, lastName, and age.
+// Rename the firstName property to name.
+// Log the updated data object.
 
 
 
