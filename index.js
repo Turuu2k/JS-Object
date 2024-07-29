@@ -131,7 +131,7 @@
 //     age: 25
 // }
 // if(userProfile.email.length == 0){
-//     userProfile.email = 'gdyuaudhae@gmail.com'
+//     userProfile.email = prompt("Email oruulna uu:")
 //     console.log(userProfile.email)
 // }else{
 //     console.log('email bn')
